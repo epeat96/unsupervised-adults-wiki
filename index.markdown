@@ -27,7 +27,3 @@ We are a welcoming, growth-focused Torn City faction for players of all levels. 
 - Train smart with a clear plan.  
 - Grow stronger without wasting time.  
 - Be part of a positive, supportive team.  
-
-## Fun Fact  
-
-Our name and role titles are inspired by the ranking system from the now dead game **Dota Underlords**.  
