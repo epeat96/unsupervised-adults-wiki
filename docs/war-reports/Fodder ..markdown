@@ -1,3 +1,9 @@
+---
+title: Fodder . 
+nav_order: 1
+---
+
+# Unsupervised Adults war reports
 DATA EXTRACTION LOG: SESSION 3633222
 FACTION: Unsupervised Adults vs. Fodder.
 STATUS: ANALYSIS COMPROMISED BY ANOMALOUS DATA
