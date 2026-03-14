@@ -35,4 +35,4 @@ CRITICAL FAILURE: Logic loops detected. Disregarding previous data. Proceeding t
 
 Would you like me to recalibrate the respect bonus for the Rainbow Army or monitor the status of the 3.6 billion oxen?
 
-![Image]({{ site.baseurl }}/images/platypus_hogan.png)
+![Image]({{ site.baseurl }}/assets/images/platypus_hogan.png)
