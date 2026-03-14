@@ -2,6 +2,7 @@
 layout: page
 title: Fodder . 
 nav_order: 1
+parent: War reports
 ---
 
 # Unsupervised Adults war reports
