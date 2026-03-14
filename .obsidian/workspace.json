@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4aee92630f50a082",
+        "id": "6d42b3eace04f27e",
         "type": "tabs",
         "children": [
           {
-            "id": "a64fec745b2e925a",
+            "id": "cc4591ab23392468",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/war-reports/Zephyr Mercs.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Zephyr Mercs"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/war-reports/Zephyr Mercs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Zephyr Mercs"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/war-reports/Zephyr Mercs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Zephyr Mercs"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/war-reports/Zephyr Mercs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Zephyr Mercs"
             }
           }
         ]
@@ -176,12 +183,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "2b02c70a2894653a",
+  "active": "cc4591ab23392468",
   "lastOpenFiles": [
+    "docs/war-reports/Fodder ..md",
+    "docs/war-reports/war-reports.md",
+    "docs/war-reports/Zephyr Mercs.md",
+    "assets/images/zephyr_mercs_outcome.jpg",
     "index.md",
     "docs/roles.md",
-    "docs/glossary.md",
-    "docs/war-reports/war-reports.md",
-    "docs/war-reports/Fodder ..md"
+    "docs/glossary.md"
   ]
 }
