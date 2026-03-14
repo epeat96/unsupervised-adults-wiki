@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/war-reports/Zephyr Mercs.md",
+                "file": "docs/war-reports/war-reports.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zephyr Mercs"
+              "title": "war-reports"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/war-reports/Zephyr Mercs.md",
+                "file": "docs/war-reports/war-reports.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Zephyr Mercs"
+              "title": "Backlinks for war-reports"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/war-reports/Zephyr Mercs.md",
+                "file": "docs/war-reports/war-reports.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Zephyr Mercs"
+              "title": "Outgoing links from war-reports"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/war-reports/Zephyr Mercs.md",
+                "file": "docs/war-reports/war-reports.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Zephyr Mercs"
+              "title": "Outline of war-reports"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "cc4591ab23392468",
   "lastOpenFiles": [
-    "docs/war-reports/Fodder ..md",
     "docs/war-reports/Zephyr Mercs.md",
+    "docs/war-reports/Fodder ..md",
     "docs/war-reports/war-reports.md",
     "assets/images/zephyr_mercs_outcome.jpg",
     "index.md",
