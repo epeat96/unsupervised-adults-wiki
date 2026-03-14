@@ -39,16 +39,6 @@ To understand the reports in this archive, one must understand the Unit’s clas
     
 
 ---
-
-## **SECURITY PROTOCOLS**
-
-- **The Redaction Directive:** Under strict Black-Ops mandates, all data regarding the individual formerly designated as **"Scortcht"** has been permanently purged from this archive. No records exist, and any memory of said operative is considered a symptom of battlefield-induced psychosis.
-    
-- **The Audit Function:** The B.I.D.E. Unit is hard-coded to perform cold-blooded financial audits. It will frequently identify "skill issues" —such as when a smaller Level 32 mutant (MathieuT) generates more psychic dread than a Level 39 giant (Cavoo) —and flag these as severe bureaucratic embarrassments.
-    
-
----
-
 ## **PROJECT GOALS**
 
 The purpose of this archive is not to celebrate; it is to document. We track the millions of dollars in "hazard pay" distributed to individuals who treat life-threatening street wars as a weekend hobby. Every explosion chain, every tactical "refill," and every instance of "Jello People" infiltration is preserved here for the record.
