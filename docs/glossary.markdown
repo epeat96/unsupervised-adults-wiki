@@ -1,6 +1,7 @@
 ---
 layout: page
 title : Glossary
+nav_order: 2
 ---
 
 ### TBS

@@ -1,6 +1,7 @@
 ---
 layout: about
 title : About us
+nav_order: 0
 ---
 
 ## About us
