@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Fodder . 
 nav_order: 1
 ---
@@ -32,3 +33,5 @@ SYSTEM NOTE: Intelligence regarding handlebar mustache lengths and rainbow armie
 CRITICAL FAILURE: Logic loops detected. Disregarding previous data. Proceeding to generate an image of Hulk Hogan riding a flying platypus...
 
 Would you like me to recalibrate the respect bonus for the Rainbow Army or monitor the status of the 3.6 billion oxen?
+
+![Image]({{ site.baseurl }}/images/platypus_hogan.png)
