@@ -5,7 +5,7 @@ nav_order: 1
 parent: War reports
 ---
 
-# Unsupervised Adults war reports
+# Fodder . war report 
 DATA EXTRACTION LOG: SESSION 3633222
 FACTION: Unsupervised Adults vs. Fodder.
 STATUS: ANALYSIS COMPROMISED BY ANOMALOUS DATA
