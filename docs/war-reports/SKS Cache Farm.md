@@ -34,50 +34,50 @@ Behind the veneer of faction loyalty lies a devastating financial crime. Wiretap
 
 - **ZooTeD- \[3891092\] — \*The Leg-Grinded Patriarch\***
 
-- **Profile:** The muscle and the mastermind. A Florida resident who orchestrates 750m siphoning schemes while grilling hot dogs for softball charities. Primary target of Cavoo's non-consensual naked leg-grinding maneuvers.
+    - **Profile:** The muscle and the mastermind. A Florida resident who orchestrates 750m siphoning schemes while grilling hot dogs for softball charities. Primary target of Cavoo's non-consensual naked leg-grinding maneuvers.
 
 - **NNescio \[3416165\] — \*The Holy Flasher\***
 
-- **Profile:** Spends the war debating the theological nuances of the Old Testament and announcing "I am naked" to the entire chain. A religious zealot with zero sense of personal space.
+    - **Profile:** Spends the war debating the theological nuances of the Old Testament and announcing "I am naked" to the entire chain. A religious zealot with zero sense of personal space.
 
 - **Epeat \[3633222\] — \*The Slumber-Party Assassin\***
 
-- **Profile:** Frequently missing-in-action due to "checking Minecraft Realms prices." Compensates for lack of focus by beating the enemy into submission with a bed pillow while high on narcotics.
+    - **Profile:** Frequently missing-in-action due to "checking Minecraft Realms prices." Compensates for lack of focus by beating the enemy into submission with a bed pillow while high on narcotics.
 
 - **BlizzakWS80 \[3896185\] — \*The Rehab Embezzler\***
 
-- **Profile:** Defends his heterosexuality more than his territory. Known for hiding in "the office" and siphoning millions from subordinates to fund his "rehab flights."
+    - **Profile:** Defends his heterosexuality more than his territory. Known for hiding in "the office" and siphoning millions from subordinates to fund his "rehab flights."
 
 - **MathieuT (Mike-Oksmol) \[3901101\] — \*The Squirtee\***
 
-- **Profile:** A Catholic Canadian who endured relentless psychological abuse regarding America's athletic "squirting" dominance. Fought bravely despite being a primary target of national humiliation.
+    - **Profile:** A Catholic Canadian who endured relentless psychological abuse regarding America's athletic "squirting" dominance. Fought bravely despite being a primary target of national humiliation.
 
 - **RickJamess \[3879636\] — \*The Ghost of Silver III\***
 
-- **Profile:** A fast, shadowy operative (359k Speed). Mostly stays quiet to ensure ZooTeD doesn't realize he's eligible for a payout.
+    - **Profile:** A fast, shadowy operative (359k Speed). Mostly stays quiet to ensure ZooTeD doesn't realize he's eligible for a payout.
 
 - **Cavoo \[3879534\] — \*The Naked Accomplice\***
 
-- **Profile:** Once ran from the police dressed as Santa Claus. Utilizes full-frontal nudity as a valid defensive tactic and is the primary source of Blizzak's orientation-related rumors.
+    - **Profile:** Once ran from the police dressed as Santa Claus. Utilizes full-frontal nudity as a valid defensive tactic and is the primary source of Blizzak's orientation-related rumors.
 
 - **PabloEscomo \[3917258\] — \*The Cartel Extra\***
 
-- **Profile:** Stays below the radar. Likely hiding in Mexico to avoid being "taken" by his own leadership's financial audit.
+    - **Profile:** Stays below the radar. Likely hiding in Mexico to avoid being "taken" by his own leadership's financial audit.
 
 - **SLAUGHTERSBEARS \[3981295\] — \*The Confused Tourist\***
 
-- **Profile:** Arrived with 27 minutes left in the war to ask "What's going on?" Unaware he fought for two days just to earn enough money for a cheap meal.
+    - **Profile:** Arrived with 27 minutes left in the war to ask "What's going on?" Unaware he fought for two days just to earn enough money for a cheap meal.
 
 - **Maffira \[3916908\] — \*The Trafficked Pedagogue\***
 
-- **Profile:** A school employee who has to wait until arriving home to "get naked," significantly limiting her daytime tactical effectiveness.
+    - **Profile:** A school employee who has to wait until arriving home to "get naked," significantly limiting her daytime tactical effectiveness.
 
 - **Pyro_Shadow \[4032391\] — \*The Ipecac Connoisseur\***
 
-- **Profile:** Spent the pre-war phase chugging syrup of ipecac. Survived the conflict through sheer gastrointestinal grit.
+    - **Profile:** Spent the pre-war phase chugging syrup of ipecac. Survived the conflict through sheer gastrointestinal grit.
 
 - **Finni_Mertz \[3482361\] — \*The Perpetual Cannon Fodder\***
 
-- **Profile:** The ultimate victim of the 750m scam. Regarded by leadership as a "minor detail" and "slacker," proving that in this faction, the beatings will continue until the bank balances improve.
+    - **Profile:** The ultimate victim of the 750m scam. Regarded by leadership as a "minor detail" and "slacker," proving that in this faction, the beatings will continue until the bank balances improve.
 
 ![Image]({{ site.baseurl }}/assets/images/sks_cache_farm.png)
