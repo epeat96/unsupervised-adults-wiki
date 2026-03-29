@@ -32,64 +32,52 @@ Behind the veneer of faction loyalty lies a devastating financial crime. Wiretap
 
 ### 📋 The Unsupervised Adults: Classified Member Roster
 
-**1\. ZooTeD- \[3891092\] — \*The Leg-Grinded Patriarch\***
+- **ZooTeD- \[3891092\] — \*The Leg-Grinded Patriarch\***
 
-- **Stats:** 2.48M Total | **Rank:** \#1
 - **Profile:** The muscle and the mastermind. A Florida resident who orchestrates 750m siphoning schemes while grilling hot dogs for softball charities. Primary target of Cavoo's non-consensual naked leg-grinding maneuvers.
 
-**2\. NNescio \[3416165\] — \*The Holy Flasher\***
+- **NNescio \[3416165\] — \*The Holy Flasher\***
 
-- **Stats:** 1.83M Total | **Rank:** \#2
 - **Profile:** Spends the war debating the theological nuances of the Old Testament and announcing "I am naked" to the entire chain. A religious zealot with zero sense of personal space.
 
-**3\. Epeat \[3633222\] — \*The Slumber-Party Assassin\***
+- **Epeat \[3633222\] — \*The Slumber-Party Assassin\***
 
-- **Stats:** 1.73M Total | **Rank:** \#3
 - **Profile:** Frequently missing-in-action due to "checking Minecraft Realms prices." Compensates for lack of focus by beating the enemy into submission with a bed pillow while high on narcotics.
 
-**4\. BlizzakWS80 \[3896185\] — \*The Rehab Embezzler\***
+- **BlizzakWS80 \[3896185\] — \*The Rehab Embezzler\***
 
-- **Stats:** 1.35M Total | **Rank:** \#4
 - **Profile:** Defends his heterosexuality more than his territory. Known for hiding in "the office" and siphoning millions from subordinates to fund his "rehab flights."
 
-**5\. MathieuT (Mike-Oksmol) \[3901101\] — \*The Squirtee\***
+- **MathieuT (Mike-Oksmol) \[3901101\] — \*The Squirtee\***
 
-- **Stats:** 753k Total | **Rank:** \#5
 - **Profile:** A Catholic Canadian who endured relentless psychological abuse regarding America's athletic "squirting" dominance. Fought bravely despite being a primary target of national humiliation.
 
-**6\. RickJamess \[3879636\] — \*The Ghost of Silver III\***
+- **RickJamess \[3879636\] — \*The Ghost of Silver III\***
 
-- **Stats:** 636k Total | **Rank:** \#6
 - **Profile:** A fast, shadowy operative (359k Speed). Mostly stays quiet to ensure ZooTeD doesn't realize he's eligible for a payout.
 
-**7\. Cavoo \[3879534\] — \*The Naked Accomplice\***
+- **Cavoo \[3879534\] — \*The Naked Accomplice\***
 
-- **Stats:** 612k Total | **Rank:** \#7
 - **Profile:** Once ran from the police dressed as Santa Claus. Utilizes full-frontal nudity as a valid defensive tactic and is the primary source of Blizzak's orientation-related rumors.
 
-**8\. PabloEscomo \[3917258\] — \*The Cartel Extra\***
+- **PabloEscomo \[3917258\] — \*The Cartel Extra\***
 
-- **Stats:** 277k Total | **Rank:** \#8
 - **Profile:** Stays below the radar. Likely hiding in Mexico to avoid being "taken" by his own leadership's financial audit.
 
-**9\. SLAUGHTERSBEARS \[3981295\] — \*The Confused Tourist\***
+- **SLAUGHTERSBEARS \[3981295\] — \*The Confused Tourist\***
 
-- **Stats:** 137k Total | **Rank:** \#9
 - **Profile:** Arrived with 27 minutes left in the war to ask "What's going on?" Unaware he fought for two days just to earn enough money for a cheap meal.
 
-**10\. Maffira \[3916908\] — \*The Trafficked Pedagogue\***
+- **Maffira \[3916908\] — \*The Trafficked Pedagogue\***
 
-- **Stats:** 121k Total | **Rank:** \#10
 - **Profile:** A school employee who has to wait until arriving home to "get naked," significantly limiting her daytime tactical effectiveness.
 
-**11\. Pyro_Shadow \[4032391\] — \*The Ipecac Connoisseur\***
+- **Pyro_Shadow \[4032391\] — \*The Ipecac Connoisseur\***
 
-- **Stats:** 117k Total | **Rank:** \#11
 - **Profile:** Spent the pre-war phase chugging syrup of ipecac. Survived the conflict through sheer gastrointestinal grit.
 
-**12\. Finni_Mertz \[3482361\] — \*The Perpetual Cannon Fodder\***
+- **Finni_Mertz \[3482361\] — \*The Perpetual Cannon Fodder\***
 
-- **Stats:** 45k Total | **Rank:** \#12
 - **Profile:** The ultimate victim of the 750m scam. Regarded by leadership as a "minor detail" and "slacker," proving that in this faction, the beatings will continue until the bank balances improve.
 
 ![Image]({{ site.baseurl }}/assets/images/sks_cache_farm.png)
