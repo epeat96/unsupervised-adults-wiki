@@ -91,3 +91,5 @@ Behind the veneer of faction loyalty lies a devastating financial crime. Wiretap
 
 - **Stats:** 45k Total | **Rank:** \#12
 - **Profile:** The ultimate victim of the 750m scam. Regarded by leadership as a "minor detail" and "slacker," proving that in this faction, the beatings will continue until the bank balances improve.
+
+![Image]({{ site.baseurl }}/assets/images/sks_cache_farm.jpg)
