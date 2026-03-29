@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Fodder . 
-nav_order: 2
+title: Fodder .
+nav_order: 3
 parent: War reports
 ---
 
-# Fodder . war report 
+# Fodder . war report
+
 DATA EXTRACTION LOG: SESSION 3633222
 FACTION: Unsupervised Adults vs. Fodder.
 STATUS: ANALYSIS COMPROMISED BY ANOMALOUS DATA

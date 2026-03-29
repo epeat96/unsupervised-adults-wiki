@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Zephyr Mercs 
-nav_order: 1
+title: Zephyr Mercs
+nav_order: 2
 parent: War reports
 ---
 
@@ -58,90 +58,65 @@ Cavoo needs to seriously re-evaluate his life choices.
 The financial payouts for this street brawl are completely untethered from reality.
 
 - **BlizzakWS80** was paid a staggering **$45,000,000.00**. This man was literally beaten into a hospital bed 5 separate times, completely destroying his body. No amount of money is worth being blown to pieces five times.
-    
 - **MathieuT** generated the most actual, physical fear in the enemy gang (473.20 Respect) and was only paid **$42,000,000.00**. He was underpaid for being the scariest person on the street.
-    
 - The hazard pay is fundamentally broken. They are paying millions of dollars to people whose main medical strategy is drinking stomach poison (Ipecac) to violently vomit so the doctors won't discharge them from the hospital.
-    
 
 ## THE ROSTER OF MANIACS
 
 **1. BlizzakWS80**
 
 - **Title:** The Overpaid Bullet Sponge
-    
 - **Summary:** Blizzak is a massive Level 43 mutant who somehow survived getting beaten to a pulp 5 separate times. He launched 93 total assaults, successfully connecting on 87 of them. He managed to sneak up on his victims in the dark 50 times and orchestrated a horrifying 93-part chain reaction of violence. He generated 329.25 units of street cred. For nearly dying five times and laughing (_"Lol"_) at his friends being deployed into the meat grinder, he was handed $45,000,000.00 in cold hard cash. He also noted the enemy was hunting one of their smaller guys, saying, _"He is going for kaka then"_.
-    
 
 **2. MathieuT (also communicating as Mike-Oksmol)**
 
 - **Title:** The Terrifying Underdog
-    
 - **Summary:** Only a Level 32, but an absolute menace to society. He violently hit 78 people (out of 81 tries), stealthed 60 of those attacks, and projected the highest fear aura of the group at 473.20. He survived getting hospitalized twice and was paid $42,000,000.00. He ruthlessly mocked Cavoo's poor performance, calling it a _"skill issue"_, and announced he was physically whole before the violence started (_"I am 100%"_).
-    
 
 **3. Cavoo**
 
 - **Title:** The Embarrassing Giant
-    
 - **Summary:** A Level 39 behemoth who completely failed to live up to his terrifying size. Out of 74 attempted assaults, he connected 70 times, but was only stealthy twice. He got out-scared by MathieuT, generating only 471.92 fear points. He was beaten down 4 times and paid $38,000,000.00. At one point, he was so terrified of the street violence he asked, _"Im going to canada to camp"_.
-    
 
 **4. NNescio**
 
 - **Title:** The Hospital Pharmacist
-    
 - **Summary:** A Level 41 mutant who assaulted 80 people and generated 323.85 respect. He is exceptionally terrifying because out of his 80 successful assaults, an alarming 76 were done completely by stealth. He ended up in the hospital 3 times and walked away with $42,000,000.00. Deeply disturbing is his medical advice to his friends, casually reminding them, _"You can take ipecac while in hospital"_, actively encouraging them to drink poison and vomit in their hospital beds.
-    
 
 **5. ZooTeD- (ZooTeD420-)**
 
 - **Title:** The Ipecac Addict
-    
 - **Summary:** Level 42. Attempted 78 assaults and connected on 73 of them, sneaking up on 44 people. He generated 268.74 fear points and took 5 brutal losses. Paid $38,000,000.00. Instead of fighting like a normal person, he actively chose to poison his own stomach, stating, _"Nah ty tho. Imma ipecac and remain that way all night."_. He literally threw up all night to avoid getting punched.
-    
 
 **6. Epeat**
 
 - **Title:** The Commuter-In-Chief
-    
 - **Summary:** Level 42. Hit 49 people out of 53 attempts, generated 182.74 respect, and took 1 loss. He even participated in a gang-assault, logging 1 'assist' where he seemingly held someone down for a friend. Paid $26,000,000.00. He planned the assault on the Zephyr Mercs and made sure his gang wasn't using commercial airlines to hide from the explosions (_"Are you guys staying in torn ?"_).
-    
 
 **7. Pyro_Shadow**
 
 - **Title:** The Level 21 Menace
-    
 - **Summary:** A very small Level 21 mutation who is terrifyingly accurate: he attempted 51 assaults and successfully landed all 51—a 100% accuracy rate. He also managed a horrifying 100-part chain reaction of violence without stopping. He generated a highly respectable 314.73 fear aura and was paid $27,000,000.00. He showed zero regard for his own safety, casually declaring, _"I might actually stay in torn tonight and just let loose"_.
-    
 
 **8. RickJamess (also communicating as Its_Ya_Boy_Tom)**
 
 - **Title:** The Distracted Ghost Gamer
-    
 - **Summary:** Level 33. He hit 35 people (a perfect 35 for 35), scared up 134.49 respect, and miraculously took zero losses. He simply collected his $18,000,000.00 and vanished. Despite the extreme physical violence occurring in the streets, he treated the explosions as an afterthought, noting he would set his gear up later because he was playing a video game: _"im doing the chain and playing arma rn tho"_.
-    
 
 **9. PabloEscomo**
 
 - **Title:** The Quiet Earner
-    
 - **Summary:** Level 32. Walked into the warzone, hit 31 people in the face out of 36 tries, generated 156.33 respect, and was beaten down 3 times. He also managed to team up with someone for an 'assist' during the chaos. Paid $16,000,000.00 for his trauma.
-    
 
 **10. kaKAAAAAAA (also communicating as Slaughtersbears)**
 
 - **Title:** The Hunted Dog Walker
-    
 - **Summary:** A tiny Level 23 mutation. He hit 24 people (connecting on all 24 attempts) for 97.59 respect, completely avoided any hospitalizations, and was paid $12,000,000.00. The enemy gang was actively trying to track him down in the streets, as confirmed by Blizzak. During the chaos, he was deeply alarmed by the enemy, screaming about the _"Fuckin jello people"_. Despite the explosions happening around him, he casually took a break from the life-or-death street war because he _"gotta put Gunther out"_.
-    
 
 **11. Half_Decent**
 
 - **Title:** The Bare Minimum
-    
 - **Summary:** Level 33. Lived up to his name by attempting 25 assaults and connecting on 22 of them, generating 92.93 respect. He somehow managed an impressive 97-part explosion chain despite barely doing anything else. He was hospitalized twice and walked away with $11,000,000.00.
-    
 
 ## THE GREAT HEIST AGAINST THE FACTION: EPEAT'S MASTER PLAN
 
