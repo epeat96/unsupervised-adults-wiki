@@ -118,3 +118,5 @@ Logged 39 hits with 8 invalid failures. A low-profile recruit whose motives rema
 New / Unpredictable
 {: .label .label-purple }
 Logged 36 hits and was observed in the intercepted chat logs gleefully counting up "retaliation bonuses" while his teammate Epeat was being physically disassembled by a cult leader. He profits off the medical emergencies of his friends—a true sociopath in training!
+
+![Image]({{ site.baseurl }}/assets/images/fucking_beanmelon_cult.png)
