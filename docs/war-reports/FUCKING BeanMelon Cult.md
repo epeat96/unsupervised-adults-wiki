@@ -1,15 +1,15 @@
 ---
 layout: page
-title: FUCKING BeanMelon Cult 
+title: FUCKING BeanMelon Cult
 nav_order: 1
 parent: War reports
 ---
 
-# SKY-HIGH TREASON: "THE UNSUPERVISED ADULTS" DROWN IN MUTINY AS TOP ENFORCER FLEES IN LUXURY PRIVATE JET, LEAVING SOLDIER TO BE PULVERIZED BY IRRADIATED MELON-GOD CULT!
+## SKY-HIGH TREASON: "THE UNSUPERVISED ADULTS" DROWN IN MUTINY AS TOP ENFORCER FLEES IN LUXURY PRIVATE JET, LEAVING SOLDIER TO BE PULVERIZED BY IRRADIATED MELON-GOD CULT!
 
 **By: Smash "All-Caps" McClane, Lead Investigative Wiretapper for The Torn Underground Ledger**
 
-## Front Page: The Apocalypse Looms
+### Front Page: The Apocalypse Looms
 
 {: .important }
 The blood-greased wheels of Torn City are grinding to a screeching halt, my fellow citizens! The apocalypse is not coming—it is already here, broadcasting live from the absolute tactical disaster zone managed by the syndicate known as "The Unsupervised Adults." I have successfully intercepted their classified, blood-smeared tactical ledgers, and what they reveal is an absolute slaughterhouse of military incompetence.
@@ -26,7 +26,7 @@ Now let us look at the defensive roster of "The Unsupervised Adults" to see how 
 {: .highlight }
 THE STATISTICAL GAP IS AN ABSOLUTE SUICIDE MISSION! In an encrypted transmission that nearly short-circuited my wiretap, frontline soldier SLAUGHTERSBEARS unironically proclaimed: _"I’m at 975, so basically there."_ Let that terrifying reality sink into your skull! Nine hundred and seventy-five total battle stats! In a city where radioactive warlords punch through steel plating with billions of stat points, this complete lunatic is charging a melon-god with the physical muscle density of a wet paper towel! He thinks he is "basically there"! The only place he is going is a body bag!
 
-## Intercepted Comms: The Madness Revealed
+### Intercepted Comms: The Madness Revealed
 
 {: .note }
 The internal communications of "The Unsupervised Adults" read like the frantic diary entries of an asylum during a structural fire. But nothing—absolutely nothing—prepares you for the sheer, sociopathic cruelty of **The Great Aviation Scam of 2026**, orchestrated by their top-scoring hitter, **BlizzakWS80**.
@@ -62,7 +62,7 @@ LordMelon slowly turned his terrifying gaze upon the abandoned soldier and syste
 
 "Hosped him"! They are running a human-harvesting insurance scam on their own frontline! Blizzak and JiteshGD sat back and watched Epeat's bones turn to dust just so they could cash in on a "retaliation bonus"! And Blizzak, drinking high-end liquor at 35,000 feet, mocked his hospitalized soldier for "going offline." He didn't go offline by choice, Blizzak! You left him to be pulverized by a fruit cult while you took a vacation!
 
-## Commendations & Condemnations (Member Dossiers)
+### Commendations & Condemnations (Member Dossiers)
 
 **BlizzakWS80** - _The Jet-Setting Sky-Scammer_
 Coward / Watchlist
