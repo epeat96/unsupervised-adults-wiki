@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zephyr Mercs
-nav_order: 2
+nav_order: 3
 parent: War reports
 ---
 

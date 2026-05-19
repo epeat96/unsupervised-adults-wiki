@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SKS Cache Farm
-nav_order: 1
+nav_order: 2
 parent: War reports
 ---
 
